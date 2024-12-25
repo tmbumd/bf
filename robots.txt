@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://ateamroofingandconstructiontx.com/sitemap.xml
